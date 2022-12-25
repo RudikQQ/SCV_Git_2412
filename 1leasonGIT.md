@@ -113,4 +113,6 @@ git branch (имя новой ветки )
 ```
 В результате создаеться новый указатель на текущий commit.
 
+# 13. Работа с удалёнными репозиториями
+
 ![Логотип GIT and VSC](https://pbs.twimg.com/media/EDi5bDQWsAAdfCw.jpg:large)
